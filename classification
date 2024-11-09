@@ -1,0 +1,5 @@
+#loding the data set
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle
+
+!kaggle datasets download -d salader/dogs-vs-cats
